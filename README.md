@@ -3,7 +3,7 @@
 
 # Problems
 
-Day 1 : Given a List of numbers and a number k, return whether any two numbers from the list add up to k.
+[Day 1](https://github.com/Gothamv/100DaysOfPython/blob/master/Day1.py) : Given a List of numbers and a number k, return whether any two numbers from the list add up to k.
 
 .....
 
