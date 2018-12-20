@@ -1,5 +1,5 @@
 '''
-These problems are provided by "https://www.dailycodingproblem.com/"
+This problem was provided by "https://www.dailycodingproblem.com/"
 Day 1 : Given a List of numbers and a number k, return whether any two numbers
 from the list add up to k.
 For example : Given [10, 15, 3, 7] and k of 17, return since 10 + 7 is 17.
@@ -30,8 +30,8 @@ a = int(input('Enter the no. of items in the list : '))
 for item in range(a):
     b = int(input('Enter the element : '))
     list1.append(b)
-number_to_be_checked = int(input('Enter the number to check sum : '))
 
+number_to_be_checked = int(input('Enter the number to check sum : '))
 a_ = check_sum(list1, number_to_be_checked)
 b_ = check_visited(list1, number_to_be_checked)
 if a_ and b_:
