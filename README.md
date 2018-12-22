@@ -10,6 +10,8 @@
 [Day 3](https://github.com/Gothamv/100DaysOfPython/blob/master/Day3.py):
 Given any two words, check if a word is an anagram of another.
 
+[Day 4](https://github.com/Gothamv/100DaysOfPython/blob/master/Day4.py): Given an array of positive and negative integers, find the first missing positive integer.
+
 .....
 
 Day n.
