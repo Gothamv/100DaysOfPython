@@ -1,9 +1,9 @@
-'''
+"""
 Given an array of integers, return a new array such that each element at index i of the
 new array is the product of all the numbers in the original array except the one at i.
 For example : If input = [3, 2, 1] , output would be [2, 3, 6]
 Bonus : What if division is not allowed?
-'''
+"""
 
 
 def with_divison(array_):

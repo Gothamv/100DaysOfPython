@@ -7,6 +7,9 @@
 
 [Day 2](https://github.com/Gothamv/100DaysOfPython/blob/master/Day2.py) : Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 
+[Day 3]((https://github.com/Gothamv/100DaysOfPython/blob/master/Day3.py):
+Given any two words, check if a word is an anagram of another.
+
 .....
 
 Day n.
