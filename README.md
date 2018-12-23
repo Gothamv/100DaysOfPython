@@ -12,6 +12,9 @@ Given any two words, check if a word is an anagram of another.
 
 [Day 4](https://github.com/Gothamv/100DaysOfPython/blob/master/Day4.py): Given an array of positive and negative integers, find the first missing positive integer.
 
+[Day 5](https://github.com/Gothamv/100DaysOfPython/blob/master/Day5.py)
+Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded. You can assume that the messages are decodable. For example, '001' is not allowed.
+
 .....
 
 Day n.
